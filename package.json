@@ -1,0 +1,25 @@
+{
+  "name": "findTNS",
+  "version": "1.0.0",
+  "description": "Oracle database connection",
+  "main": "findTNS.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Oracle"
+  ],
+  "author": "GÜRKAN CANPOLAT",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.8",
+    "electron-rebuild": "^1.8.2"
+  },
+  "dependencies": {
+    "monaco-editor": "^0.14.3",
+    "nan": "^2.11.1",
+    "oracledb": "^3.1.2",
+    "regedit": "^3.0.3",
+    "tns": "^0.2.0"
+  }
+}
