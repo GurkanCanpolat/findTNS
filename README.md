@@ -1,0 +1,1 @@
+Localde yer alan TNS dosyasını bulup , proje dosyasına kaydeder.
